@@ -1,0 +1,45 @@
+[submodule "Landing/Tubes_Assay"]
+	path = Landing/Tubes_Assay
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/BioCats/svn_repository_fsfs/Landing/Tubes_Assay
+[submodule "Shac"]
+	path = Shac
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/BioCats/svn_repository_fsfs/Shac
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/toolbox_fast_marching"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/toolbox_fast_marching
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/toolbox_fast_marching
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/FourierAnalysis"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/FourierAnalysis
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/FourierAnalysis.git/
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/treatment_at_the_cortex"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/treatment_at_the_cortex
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/treatment_at_the_cortex.git
+[submodule "Tracking_Matlab/Tracking_Matlab/utrack"]
+	path = Tracking_Matlab/Tracking_Matlab/utrack
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/utrack.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/denoising"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/denoising
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/denoising.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/BayesianInference"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/BayesianInference
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/InferenceBayesian_equivalent_MSD.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/simulation_biologicalImaging"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/simulation_biologicalImaging
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/simulation_biologicalImaging.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/knl1_analysis"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/knl1_analysis
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/knl1_analysis.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/segmentation"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/segmentation
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/segmentation.git
+[submodule "protect"]
+	path = protect
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/protect.git
+[submodule "Tracking_Matlab/Tracking_Matlab/devel_tools"]
+	path = Tracking_Matlab/Tracking_Matlab/devel_tools
+	url = ssh://cedre@cedre-2.med.univ-rennes1.fr/Data/git_repository/BioCats_devel_tools.git
+[submodule "Tracking_Matlab/Tracking_Matlab/rdir/longitudinal_MTs"]
+	path = Tracking_Matlab/Tracking_Matlab/rdir/longitudinal_MTs
+	url = ssh://helene@cedre-2.med.univ-rennes1.fr/Data/git_repository/longitudinal_MTs.git
+[submodule "Tracking_Matlab/Tracking_Matlab/export_fig"]
+	path = Tracking_Matlab/Tracking_Matlab/export_fig
+	url = https://github.com/altmany/export_fig.git

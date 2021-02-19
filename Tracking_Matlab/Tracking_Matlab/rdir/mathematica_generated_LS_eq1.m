@@ -1,0 +1,6 @@
+function [result]=mathematica_generated_LS_eq1(Der,LevelSetFct,lambda,kappa,sigma,extensionmax,lambdaInside,lambdaOutside,lambdaContour,c1,c2,c3,Imagee,ImageeDer,epsilon,BandWidth,dl0m)
+result = kappa.*lambda.*(Der(:,:,10)+SDerYYYY14)+((-1).*c1+Imagee).^2.* ...
+  lambdaInside.*DiracDelta(Phi(x,y))+(-1).*((-1).*c2+Imagee).^2.* ...
+  lambdaOutside.*DiracDelta(Phi(x,y));
+
+end
